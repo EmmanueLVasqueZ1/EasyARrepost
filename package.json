@@ -23,6 +23,10 @@
   "dependencies": {
     "com.unity.ugui": "1.0.0"
   },
+  "repository": {
+		"type": "git",
+		"url": "https://github.com/EmmanueLVasqueZ1/EasyARrepost.git"
+	}
   "samples": [
     {
       "displayName": "**All**",
